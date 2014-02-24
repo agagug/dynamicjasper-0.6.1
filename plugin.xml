@@ -1,0 +1,25 @@
+<plugin name='dynamic-jasper' version='0.6'>
+  <author>Alejandro Gomez (FDV Solutions)</author>
+  <authorEmail>alejandro.gomez@fdvsolutions.com</authorEmail>
+  <title>Integrates DynamicJasper into Grails</title>
+  <description>Automates reports generation for your domail model.
+</description>
+  <documentation>http://grails.org/DynamicJasper+Plugin</documentation>
+  <resources>
+    <resource>DefaultDynamicJasperConfig</resource>
+    <resource>UrlMappings</resource>
+    <resource>DjReportController</resource>
+    <resource>Branch</resource>
+    <resource>Product</resource>
+    <resource>Sale</resource>
+    <resource>Line</resource>
+    <resource>BootStrap</resource>
+    <resource>DynamicJasperConfig</resource>
+    <resource>spring.resources</resource>
+    <resource>Config</resource>
+    <resource>UrlMappings</resource>
+    <resource>DataSource</resource>
+    <resource>DefaultDynamicJasperConfig</resource>
+    <resource>DjReportController</resource>
+  </resources>
+</plugin>
